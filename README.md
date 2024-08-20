@@ -15,6 +15,10 @@ Instrucciones de Ejecución
    
         git clone https://github.com/yanix-science/LEX-PROJECT.git
         cd LEX-PROJECT
+2.1 Verificar el Contenido del Directorio:
+
+         ls
+Esto debería mostrarte los subdirectorios correspondientes a los diferentes programas.
   
 4. Instalar Flex & Bison (Si es necesario):
    
@@ -25,7 +29,7 @@ Instrucciones de Ejecución
 
 Para compilar y ejecutar cualquiera de los programas, sigue estos pasos:
 
-  4.1 Navega al directorio correspondiente del programa deseado.
+  4.1 Navega al subdirectorio correspondiente del programa deseado.
 
   4.2 Usa Flex para compilar el archivo .l de esta manera:
   
