@@ -1,0 +1,6 @@
+Este es un ejemplo
+de archivo de texto.
+Contiene varias líneas,
+palabras y caracteres.
+
+¡Incluso signos de puntuación!
